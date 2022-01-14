@@ -1,4 +1,4 @@
-# 2022-01-14 java Scanner 짝수항만 출력
+# 2022-01-14 java Scanner 구구단 짝수항만 출력
 import java.util.Scanner;
 public class D20220114 {
 
