@@ -1,4 +1,4 @@
-# 2022-01-14 java 입력받은 구구단을 짝수항만 출력
+# 2022-01-14 java Scanner 짝수항만 출력
 import java.util.Scanner;
 public class D20220114 {
 
